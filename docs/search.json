@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training",
+    "section": "",
+    "text": "We offer several training:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "email: marcel.ferreira@unesp.br\ninstagram: ferreiramr_phd"
+  },
+  {
+    "objectID": "about.html#get-in-contact",
+    "href": "about.html#get-in-contact",
+    "title": "About",
+    "section": "",
+    "text": "email: marcel.ferreira@unesp.br\ninstagram: ferreiramr_phd"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marcel Ferreira’s Lab",
+    "section": "",
+    "text": "Our laboratory is dedicated to innovation and excellence in biotechnology and bioinformatics, exploring the frontiers of science to address pressing research challenges.\nMarcel Ferreira, is a Medical Physics graduate with a Master’s and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the Molecular Genetics and Bioinformatics Laboratory (GemBio), led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the Laboratory of Bioassays and Cell Dynamics (LaBIO), directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology.\nOur laboratory integrates diverse expertise to pursue impactful discoveries. We invite you to explore our work, learn about our ongoing projects, and collaborate with us to advance the boundaries of science."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Marcel Ferreira’s Lab",
+    "section": "",
+    "text": "Our laboratory is dedicated to innovation and excellence in biotechnology and bioinformatics, exploring the frontiers of science to address pressing research challenges.\nMarcel Ferreira, is a Medical Physics graduate with a Master’s and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the Molecular Genetics and Bioinformatics Laboratory (GemBio), led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the Laboratory of Bioassays and Cell Dynamics (LaBIO), directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology.\nOur laboratory integrates diverse expertise to pursue impactful discoveries. We invite you to explore our work, learn about our ongoing projects, and collaborate with us to advance the boundaries of science."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Marcel Ferreira’s Lab",
+    "section": "Research interests",
+    "text": "Research interests\n\nHuman identification via DNA;\nAlternative methods to the use of animals;\nBone tissue biology;\nBiomaterials;\nTissue regeneration;\nOpen science;"
+  },
+  {
+    "objectID": "index.html#expertises",
+    "href": "index.html#expertises",
+    "title": "Marcel Ferreira’s Lab",
+    "section": "Expertises",
+    "text": "Expertises\nAt the Marcel Ferreira Laboratory, we excel in integrating diverse scientific approaches to address complex biological questions. Our specializations include:\n\nBioinformatics\nExpertise in analyzing genomics, transcriptomics, proteomics, and epigenetics data. We leverage cutting-edge tools and algorithms to decode the intricate mechanisms of life.\nData Analysis and Statistics\nProficient in designing and executing robust data analysis pipelines, ensuring accurate interpretation of complex datasets across various scientific disciplines.\nOxford Nanopore Sequencing Data\nAdvanced skills in analyzing Oxford Nanopore sequencing data, from quality control to genome assembly and variant calling, providing comprehensive insights into genetic landscapes.\nBone Biomaterials\nSkilled in the synthesis and characterization of bone biomaterials, with a focus on their physicochemical properties and biological interactions to advance regenerative medicine.\nMachine Learning\nApplication of machine learning techniques to predict outcomes, classify datasets, and uncover patterns in biological and material science data, pushing the boundaries of innovation.\n\nOur multidisciplinary expertise allows us to approach challenges holistically, fostering impactful discoveries and innovative solutions."
+  }
+]

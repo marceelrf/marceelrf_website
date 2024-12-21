@@ -1,0 +1,46 @@
+---
+title: "Marcel Ferreira's Lab"
+---
+
+## Welcome
+
+Our laboratory is dedicated to innovation and excellence in biotechnology and bioinformatics, exploring the frontiers of science to address pressing research challenges.
+
+Marcel Ferreira, is a Medical Physics graduate with a Master's and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the **Molecular Genetics and Bioinformatics Laboratory (GemBio)**, led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the **Laboratory of Bioassays and Cell Dynamics (LaBIO)**, directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology.
+
+Our laboratory integrates diverse expertise to pursue impactful discoveries. We invite you to explore our work, learn about our ongoing projects, and collaborate with us to advance the boundaries of science.
+
+## Research interests
+
+-   Human identification via DNA;
+
+-   Alternative methods to the use of animals;
+
+-   Bone tissue biology;
+
+-   Biomaterials;
+
+-   Tissue regeneration;
+
+-   Open science;
+
+## Expertises
+
+At the Marcel Ferreira Laboratory, we excel in integrating diverse scientific approaches to address complex biological questions. Our specializations include:
+
+-   **Bioinformatics**\
+    Expertise in analyzing genomics, transcriptomics, proteomics, and epigenetics data. We leverage cutting-edge tools and algorithms to decode the intricate mechanisms of life.
+
+-   **Data Analysis and Statistics**\
+    Proficient in designing and executing robust data analysis pipelines, ensuring accurate interpretation of complex datasets across various scientific disciplines.
+
+-   **Oxford Nanopore Sequencing Data**\
+    Advanced skills in analyzing Oxford Nanopore sequencing data, from quality control to genome assembly and variant calling, providing comprehensive insights into genetic landscapes.
+
+-   **Bone Biomaterials**\
+    Skilled in the synthesis and characterization of bone biomaterials, with a focus on their physicochemical properties and biological interactions to advance regenerative medicine.
+
+-   **Machine Learning**\
+    Application of machine learning techniques to predict outcomes, classify datasets, and uncover patterns in biological and material science data, pushing the boundaries of innovation.
+
+Our multidisciplinary expertise allows us to approach challenges holistically, fostering impactful discoveries and innovative solutions.

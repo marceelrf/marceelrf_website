@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Marcel Ferreira's Lab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - training.qmd
+      - services.qmd
+      - ournumbers.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+

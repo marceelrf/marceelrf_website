@@ -1,3 +1,31 @@
 ---
 title: "Services"
 ---
+
+## Bioinformatics services
+
+-   Oxford Nanopore sequencing basecalling;
+
+-   Genome assembly;
+
+-   Genome/Transcriptome mapping;
+
+-   Functional analysis;
+
+-   Variant calling;
+
+-   Network analysis;
+
+-   Base modification analysis;
+
+## Data analysis and statistics
+
+-   Sample size and power calculations;
+
+-   Experimental design;
+
+-   Hypothesis testing;
+
+-   Data visualization;
+
+-   Data wrangling;

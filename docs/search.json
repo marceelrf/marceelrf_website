@@ -47,5 +47,26 @@
     "title": "Marcel Ferreira’s Lab",
     "section": "Expertises",
     "text": "Expertises\nAt the Marcel Ferreira Laboratory, we excel in integrating diverse scientific approaches to address complex biological questions. Our specializations include:\n\nBioinformatics\nExpertise in analyzing genomics, transcriptomics, proteomics, and epigenetics data. We leverage cutting-edge tools and algorithms to decode the intricate mechanisms of life.\nData Analysis and Statistics\nProficient in designing and executing robust data analysis pipelines, ensuring accurate interpretation of complex datasets across various scientific disciplines.\nOxford Nanopore Sequencing Data\nAdvanced skills in analyzing Oxford Nanopore sequencing data, from quality control to genome assembly and variant calling, providing comprehensive insights into genetic landscapes.\nBone Biomaterials\nSkilled in the synthesis and characterization of bone biomaterials, with a focus on their physicochemical properties and biological interactions to advance regenerative medicine.\nMachine Learning\nApplication of machine learning techniques to predict outcomes, classify datasets, and uncover patterns in biological and material science data, pushing the boundaries of innovation.\n\nOur multidisciplinary expertise allows us to approach challenges holistically, fostering impactful discoveries and innovative solutions."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Oxford Nanopore sequencing basecalling;\nGenome assembly;\nGenome/Transcriptome mapping;\nFunctional analysis;\nVariant calling;\nNetwork analysis;\nBase modification analysis;"
+  },
+  {
+    "objectID": "services.html#bioinformatics-services",
+    "href": "services.html#bioinformatics-services",
+    "title": "Services",
+    "section": "",
+    "text": "Oxford Nanopore sequencing basecalling;\nGenome assembly;\nGenome/Transcriptome mapping;\nFunctional analysis;\nVariant calling;\nNetwork analysis;\nBase modification analysis;"
+  },
+  {
+    "objectID": "services.html#data-analysis-and-statistics",
+    "href": "services.html#data-analysis-and-statistics",
+    "title": "Services",
+    "section": "Data analysis and statistics",
+    "text": "Data analysis and statistics\n\nSample size and power calculations;\nExperimental design;\nHypothesis testing;\nData visualization;\nData wrangling;"
   }
 ]

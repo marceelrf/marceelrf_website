@@ -28,19 +28,19 @@ Our laboratory integrates diverse expertise to pursue impactful discoveries. We 
 
 At the Marcel Ferreira Laboratory, we excel in integrating diverse scientific approaches to address complex biological questions. Our specializations include:
 
--   **Bioinformatics**\
+-   **Bioinformatics** {{< fa computer >}}\
     Expertise in analyzing genomics, transcriptomics, proteomics, and epigenetics data. We leverage cutting-edge tools and algorithms to decode the intricate mechanisms of life.
 
--   **Data Analysis and Statistics**\
+-   **Data Analysis and Statistics** {{< fa chart-simple >}}\
     Proficient in designing and executing robust data analysis pipelines, ensuring accurate interpretation of complex datasets across various scientific disciplines.
 
--   **Oxford Nanopore Sequencing Data**\
+-   **Oxford Nanopore Sequencing Data** {{< fa dna >}}\
     Advanced skills in analyzing Oxford Nanopore sequencing data, from quality control to genome assembly and variant calling, providing comprehensive insights into genetic landscapes.
 
--   **Bone Biomaterials**\
+-   **Bone Biomaterials** {{< fa bone >}}\
     Skilled in the synthesis and characterization of bone biomaterials, with a focus on their physicochemical properties and biological interactions to advance regenerative medicine.
 
--   **Machine Learning**\
+-   **Machine Learning** {{< fa robot >}}\
     Application of machine learning techniques to predict outcomes, classify datasets, and uncover patterns in biological and material science data, pushing the boundaries of innovation.
 
 Our multidisciplinary expertise allows us to approach challenges holistically, fostering impactful discoveries and innovative solutions.

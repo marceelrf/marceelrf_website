@@ -3,3 +3,9 @@ title: "Training"
 ---
 
 We offer several training:
+
+-   ***"Start programming on linux!";***
+
+-   "***Statistics in R!***";
+
+-   "***Hands on bioinformatics***";

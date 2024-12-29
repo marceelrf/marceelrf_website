@@ -6,6 +6,10 @@ We offer several training:
 
 -   ***"Start programming on linux!";***
 
+<br>
+
 -   "***Statistics in R!***";
+
+<br>
 
 -   "***Hands on bioinformatics***";

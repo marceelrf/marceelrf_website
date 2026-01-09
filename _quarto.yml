@@ -8,9 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - research.qmd
+      - pubs.qmd
       - training.qmd
-      - services.qmd
-      - ournumbers.qmd
       - about.qmd
 
 format:

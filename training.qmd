@@ -2,14 +2,16 @@
 title: "Training"
 ---
 
-We offer several training:
+## In progress.. {{< bi cone-striped >}}
 
--   ***"Start programming on linux!";***
+<!-- We offer several training: -->
 
-<br>
+<!-- -   ***"Start programming on linux!";*** -->
 
--   "***Statistics in R!***";
+<!-- <br> -->
 
-<br>
+<!-- -   "***Statistics in R!***"; -->
 
--   "***Hands on bioinformatics***";
+<!-- <br> -->
+
+<!-- -   "***Hands on bioinformatics***"; -->

@@ -1,0 +1,26 @@
+---
+title: "Research"
+---
+
+## UN Sustainable Development Goals
+
+::: {#fig-sdg layout-ncol=3}
+
+![Good Health and Well-Being](img/ods03.png){#fig-sdg03}
+
+![Quality Education](img/ods04.png){#fig-sdg04}
+
+![Industry, Innovation and Infrastructue](img/ods09.png){#fig-sdg09}
+:::
+
+### SDG 3 – Good Health and Well-Being
+
+My research contributes to Sustainable Development Goal 3 by advancing data-driven approaches in health and biomedical sciences. Through the integration of bioinformatics, transcriptomics, epigenetics, and biomaterials research, my work supports the development and evaluation of regenerative strategies, particularly in bone tissue engineering. By focusing on *in vitro* models and predictive computational pipelines, I aim to improve the understanding of cell–material interactions and to generate robust biomarkers that can ultimately support safer, more effective, and more sustainable healthcare solutions.
+
+### SDG 4 – Quality Education
+
+Aligned with Sustainable Development Goal 4, I am actively engaged in promoting quality education through scientific training, capacity building, and open educational resources. I develop and deliver workshops, short courses, and teaching materials focused on bioinformatics, data science, and reproducible research practices. By emphasizing computational literacy and critical data analysis, my work supports the formation of highly qualified students and researchers, contributing to inclusive and lifelong learning in science and technology.
+
+### SDG 9 – Industry, Innovation and Infrastructure
+
+My work directly supports Sustainable Development Goal 9 by contributing to scientific innovation and digital research infrastructure. I develop scalable computational workflows, machine learning–based analytical strategies, and interoperable data resources that integrate physical, chemical, and biological datasets. These efforts strengthen research infrastructure and foster innovation at the interface of biology, materials science, and data science, enabling more efficient knowledge generation and supporting the translation of scientific advances into technological and industrial applications.

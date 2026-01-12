@@ -76,4 +76,3 @@ format: pdf
 36. [**Ferreira MR**]{.underline}, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. *Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis*. Cell Biol Int. 2026 Jan;50(1):e70101. doi: [10.1002/cbin.70101](https://www.doi.org/10.1002/cbin.70101). Epub 2025 Nov 13. PMID: 41230788.
 
 [^1]: There was an error in the submission, resulting in the reversal of the surnames. Therefore, the correct name is Marcel Rodrigues Ferreira. If you wish to confirm the accuracy of this article, please consult Professor Dr. Willian Zambuzzi ([w.zambuzzi\@unesp.br](mailto:w.zambuzzi@unesp.br)).
-

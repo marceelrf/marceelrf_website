@@ -1,5 +1,5 @@
 ---
-title: "Marcel Ferreira's Lab"
+title: "Marcel Ferreira"
 ---
 
 ## Welcome
@@ -44,3 +44,13 @@ At the Marcel Ferreira Laboratory, we excel in integrating diverse scientific ap
     Application of machine learning techniques to predict outcomes, classify datasets, and uncover patterns in biological and material science data, pushing the boundaries of innovation.
 
 Our multidisciplinary expertise allows us to approach challenges holistically, fostering impactful discoveries and innovative solutions.
+
+## Contact
+
+Experimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681
+
+{{< fa envelope >}} [marcel.ferreira\@unesp.br](mailto:marcel.ferreira@unesp.br)
+
+{{< fa brands instagram >}} ferreiramr_phd
+
+{{< fa brands linkedin >}} [marceelrf](https://www.linkedin.com/in/marceelrf/)

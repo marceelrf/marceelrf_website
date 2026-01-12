@@ -1,14 +1,27 @@
 ---
-title: "Publications and Presentations"
+title: "Publications and Sofware"
 ---
 
 ## Feature papers
 
+-   [**Ferreira MR**]{.underline}, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. *Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis*. Cell Biol Int. 2026 Jan;50(1):e70101. doi: [10.1002/cbin.70101](https://www.doi.org/10.1002/cbin.70101). Epub 2025 Nov 13. PMID: 41230788.
 
-Download the publications full list {{< downloadthis docs/pubs_full_list.pdf >}}.
+-   [**Ferreira MR**]{.underline}, Carratto TMT, Frontanilla TS, Bonadio RS, Jain M, de Oliveira SF, Castelli EC, Mendes-Junior CT. *Advances in forensic genetics: Exploring the potential of long read sequencing*. Forensic Sci Int Genet. 2025 Jan;74:103156. doi: [10.1016/j.fsigen.2024](https://www.doi.org/10.1016/j.fsigen.2024).103156. Epub 2024 Oct 10. PMID: 39427416.
 
-## Published papers
+-   [**Ferreira MR**]{.underline}, Santos GA, Biagi CA, Silva Junior WA, Zambuzzi WF. *GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison*. J Biomed Mater Res A. 2021 Jun;109(6):1004-1014. doi: [10.1002/jbm.a.37090](https://www.doi.org/10.1002/jbm.a.37090). Epub 2020 Sep 9. PMID: 32820608.
 
-1.  Alvarez TM, Liberato MV, Cairo JP, Paixão DA, Campos BM, [**Ferreira MR**]{.underline}, Almeida RF, Pereira IO, Bernardes A, Ematsu GC, Chinaglia M, Polikarpov I, de Oliveira Neto M, Squina FM. *A Novel Member of GH16 Family Derived from Sugarcane Soil Metagenome*. Appl Biochem Biotechnol. 2015 Sep;177(2):304-17. doi: [10.1007/s12010-015-1743-7](https://www.doi.org/10.1007/s12010-015-1743-7). Epub 2015 Aug 5. PMID: 26242386.
+-   [**Ferreira MR**]{.underline}, Milani R, Rangel EC, Peppelenbosch M, Zambuzzi W. *OsteoBLAST: Computational Routine of Global Molecular Analysis Applied to Biomaterials Development*. Front Bioeng Biotechnol. 2020 Oct 8;8:565901. doi: [10.3389/fbioe.2020.565901](https://www.doi.org/10.3389/fbioe.2020.565901). PMID: 33117780; PMCID: PMC7578266.
 
+-   Bezerra F, [**Ferreira MR**]{.underline}, Fontes GN, da Costa Fernandes CJ, Andia DC, Cruz NC, da Silva RA, Zambuzzi WF. *Nano hydroxyapatite-blasted titanium surface affects pre-osteoblast morphology by modulating critical intracellular pathways*. Biotechnol Bioeng. 2017 Aug;114(8):1888-1898. doi: [10.1002/bit.26310](https://www.doi.org/10.1002/bit.26310). Epub 2017 Jun 7. PMID: 28401535.
 
+Download the publication's full list:
+
+{{< downloadthis docs/pubs_full_list.pdf >}}
+
+## Software
+
+-   [tidyspec](https://cran.r-project.org/web/packages/tidyspec/index.html) \[R package\]
+
+-   OsteoCLUST \[App\]
+
+-   previewDeconv \[App\]

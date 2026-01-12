@@ -16,65 +16,72 @@
   {
     "objectID": "pubs.html",
     "href": "pubs.html",
-    "title": "Publications and Presentations",
+    "title": "Publications and Sofware",
     "section": "",
-    "text": "Download the publications full list  Download ."
+    "text": "Ferreira MR, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis. Cell Biol Int. 2026 Jan;50(1):e70101. doi: 10.1002/cbin.70101. Epub 2025 Nov 13. PMID: 41230788.\nFerreira MR, Carratto TMT, Frontanilla TS, Bonadio RS, Jain M, de Oliveira SF, Castelli EC, Mendes-Junior CT. Advances in forensic genetics: Exploring the potential of long read sequencing. Forensic Sci Int Genet. 2025 Jan;74:103156. doi: 10.1016/j.fsigen.2024.103156. Epub 2024 Oct 10. PMID: 39427416.\nFerreira MR, Santos GA, Biagi CA, Silva Junior WA, Zambuzzi WF. GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison. J Biomed Mater Res A. 2021 Jun;109(6):1004-1014. doi: 10.1002/jbm.a.37090. Epub 2020 Sep 9. PMID: 32820608.\nFerreira MR, Milani R, Rangel EC, Peppelenbosch M, Zambuzzi W. OsteoBLAST: Computational Routine of Global Molecular Analysis Applied to Biomaterials Development. Front Bioeng Biotechnol. 2020 Oct 8;8:565901. doi: 10.3389/fbioe.2020.565901. PMID: 33117780; PMCID: PMC7578266.\nBezerra F, Ferreira MR, Fontes GN, da Costa Fernandes CJ, Andia DC, Cruz NC, da Silva RA, Zambuzzi WF. Nano hydroxyapatite-blasted titanium surface affects pre-osteoblast morphology by modulating critical intracellular pathways. Biotechnol Bioeng. 2017 Aug;114(8):1888-1898. doi: 10.1002/bit.26310. Epub 2017 Jun 7. PMID: 28401535.\n\nDownload the publication’s full list:\n Download"
   },
   {
     "objectID": "pubs.html#feature-papers",
     "href": "pubs.html#feature-papers",
-    "title": "Publications and Presentations",
+    "title": "Publications and Sofware",
     "section": "",
-    "text": "Download the publications full list  Download ."
+    "text": "Ferreira MR, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis. Cell Biol Int. 2026 Jan;50(1):e70101. doi: 10.1002/cbin.70101. Epub 2025 Nov 13. PMID: 41230788.\nFerreira MR, Carratto TMT, Frontanilla TS, Bonadio RS, Jain M, de Oliveira SF, Castelli EC, Mendes-Junior CT. Advances in forensic genetics: Exploring the potential of long read sequencing. Forensic Sci Int Genet. 2025 Jan;74:103156. doi: 10.1016/j.fsigen.2024.103156. Epub 2024 Oct 10. PMID: 39427416.\nFerreira MR, Santos GA, Biagi CA, Silva Junior WA, Zambuzzi WF. GSVA score reveals molecular signatures from transcriptomes for biomaterials comparison. J Biomed Mater Res A. 2021 Jun;109(6):1004-1014. doi: 10.1002/jbm.a.37090. Epub 2020 Sep 9. PMID: 32820608.\nFerreira MR, Milani R, Rangel EC, Peppelenbosch M, Zambuzzi W. OsteoBLAST: Computational Routine of Global Molecular Analysis Applied to Biomaterials Development. Front Bioeng Biotechnol. 2020 Oct 8;8:565901. doi: 10.3389/fbioe.2020.565901. PMID: 33117780; PMCID: PMC7578266.\nBezerra F, Ferreira MR, Fontes GN, da Costa Fernandes CJ, Andia DC, Cruz NC, da Silva RA, Zambuzzi WF. Nano hydroxyapatite-blasted titanium surface affects pre-osteoblast morphology by modulating critical intracellular pathways. Biotechnol Bioeng. 2017 Aug;114(8):1888-1898. doi: 10.1002/bit.26310. Epub 2017 Jun 7. PMID: 28401535.\n\nDownload the publication’s full list:\n Download"
   },
   {
-    "objectID": "pubs.html#published-papers",
-    "href": "pubs.html#published-papers",
-    "title": "Publications and Presentations",
-    "section": "Published papers",
-    "text": "Published papers\n\nAlvarez TM, Liberato MV, Cairo JP, Paixão DA, Campos BM, Ferreira MR, Almeida RF, Pereira IO, Bernardes A, Ematsu GC, Chinaglia M, Polikarpov I, de Oliveira Neto M, Squina FM. A Novel Member of GH16 Family Derived from Sugarcane Soil Metagenome. Appl Biochem Biotechnol. 2015 Sep;177(2):304-17. doi: 10.1007/s12010-015-1743-7. Epub 2015 Aug 5. PMID: 26242386."
+    "objectID": "pubs.html#software",
+    "href": "pubs.html#software",
+    "title": "Publications and Sofware",
+    "section": "Software",
+    "text": "Software\n\ntidyspec [R package]\nOsteoCLUST [App]\npreviewDeconv [App]"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Marcel Ferreira’s Lab",
+    "title": "Marcel Ferreira",
     "section": "",
     "text": "Our laboratory is dedicated to innovation and excellence in biotechnology and bioinformatics, exploring the frontiers of science to address pressing research challenges.\nMarcel Ferreira, is a Medical Physics graduate with a Master’s and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the Molecular Genetics and Bioinformatics Laboratory (GemBio), led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the Laboratory of Bioassays and Cell Dynamics (LaBIO), directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology.\nOur laboratory integrates diverse expertise to pursue impactful discoveries. We invite you to explore our work, learn about our ongoing projects, and collaborate with us to advance the boundaries of science."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "Marcel Ferreira’s Lab",
+    "title": "Marcel Ferreira",
     "section": "",
     "text": "Our laboratory is dedicated to innovation and excellence in biotechnology and bioinformatics, exploring the frontiers of science to address pressing research challenges.\nMarcel Ferreira, is a Medical Physics graduate with a Master’s and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the Molecular Genetics and Bioinformatics Laboratory (GemBio), led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the Laboratory of Bioassays and Cell Dynamics (LaBIO), directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology.\nOur laboratory integrates diverse expertise to pursue impactful discoveries. We invite you to explore our work, learn about our ongoing projects, and collaborate with us to advance the boundaries of science."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Marcel Ferreira’s Lab",
+    "title": "Marcel Ferreira",
     "section": "Research interests",
     "text": "Research interests\n\nHuman identification via DNA;\nAlternative methods to the use of animals;\nBone tissue biology;\nBiomaterials;\nTissue regeneration;\nOpen science;"
   },
   {
     "objectID": "index.html#expertises",
     "href": "index.html#expertises",
-    "title": "Marcel Ferreira’s Lab",
+    "title": "Marcel Ferreira",
     "section": "Expertises",
     "text": "Expertises\nAt the Marcel Ferreira Laboratory, we excel in integrating diverse scientific approaches to address complex biological questions. Our specializations include:\n\nBioinformatics \nExpertise in analyzing genomics, transcriptomics, proteomics, and epigenetics data. We leverage cutting-edge tools and algorithms to decode the intricate mechanisms of life.\nData Analysis and Statistics \nProficient in designing and executing robust data analysis pipelines, ensuring accurate interpretation of complex datasets across various scientific disciplines.\nOxford Nanopore Sequencing Data \nAdvanced skills in analyzing Oxford Nanopore sequencing data, from quality control to genome assembly and variant calling, providing comprehensive insights into genetic landscapes.\nBone Biomaterials \nSkilled in the synthesis and characterization of bone biomaterials, with a focus on their physicochemical properties and biological interactions to advance regenerative medicine.\nMachine Learning \nApplication of machine learning techniques to predict outcomes, classify datasets, and uncover patterns in biological and material science data, pushing the boundaries of innovation.\n\nOur multidisciplinary expertise allows us to approach challenges holistically, fostering impactful discoveries and innovative solutions."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Marcel Ferreira",
+    "section": "Contact",
+    "text": "Contact\nExperimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681\n marcel.ferreira@unesp.br\n ferreiramr_phd\n marceelrf"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "marcel.ferreira@unesp.br\n ferreiramr_phd"
+    "text": "Experimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681\n marcel.ferreira@unesp.br\n ferreiramr_phd\n marceelrf\n Scholar"
   },
   {
     "objectID": "about.html#get-in-contact",
     "href": "about.html#get-in-contact",
     "title": "About",
     "section": "",
-    "text": "marcel.ferreira@unesp.br\n ferreiramr_phd"
+    "text": "Experimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681\n marcel.ferreira@unesp.br\n ferreiramr_phd\n marceelrf\n Scholar"
   },
   {
     "objectID": "services.html",

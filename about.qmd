@@ -4,6 +4,12 @@ title: "About"
 
 ## Get in contact
 
+Experimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681
+
 {{< fa envelope >}} [marcel.ferreira\@unesp.br](mailto:marcel.ferreira@unesp.br)
 
 {{< fa brands instagram >}} ferreiramr_phd
+
+{{< fa brands linkedin >}} [marceelrf](https://www.linkedin.com/in/marceelrf/)
+
+{{< fa brands google-scholar>}} [Scholar](https://scholar.google.com/citations?user=lS42GYwAAAAJ&hl=en)

@@ -4,14 +4,28 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "(a) Good Health and Well-Being\n\n\n\n\n\n\n\n\n\n\n\n(b) Quality Education\n\n\n\n\n\n\n\n\n\n\n\n(c) Industry, Innovation and Infrastructue\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\nMy research contributes to Sustainable Development Goal 3 by advancing data-driven approaches in health and biomedical sciences. Through the integration of bioinformatics, transcriptomics, epigenetics, and biomaterials research, my work supports the development and evaluation of regenerative strategies, particularly in bone tissue engineering. By focusing on in vitro models and predictive computational pipelines, I aim to improve the understanding of cell–material interactions and to generate robust biomarkers that can ultimately support safer, more effective, and more sustainable healthcare solutions.\n\n\n\nAligned with Sustainable Development Goal 4, I am actively engaged in promoting quality education through scientific training, capacity building, and open educational resources. I develop and deliver workshops, short courses, and teaching materials focused on bioinformatics, data science, and reproducible research practices. By emphasizing computational literacy and critical data analysis, my work supports the formation of highly qualified students and researchers, contributing to inclusive and lifelong learning in science and technology.\n\n\n\nMy work directly supports Sustainable Development Goal 9 by contributing to scientific innovation and digital research infrastructure. I develop scalable computational workflows, machine learning–based analytical strategies, and interoperable data resources that integrate physical, chemical, and biological datasets. These efforts strengthen research infrastructure and foster innovation at the interface of biology, materials science, and data science, enabling more efficient knowledge generation and supporting the translation of scientific advances into technological and industrial applications."
+    "text": "Alternative methods to the use of animals;\nBone tissue biology;\nBiomaterials;\nHuman identification via DNA;\nTissue regeneration;\nOpen science;"
+  },
+  {
+    "objectID": "research.html#sec-research-interests",
+    "href": "research.html#sec-research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Alternative methods to the use of animals;\nBone tissue biology;\nBiomaterials;\nHuman identification via DNA;\nTissue regeneration;\nOpen science;"
+  },
+  {
+    "objectID": "research.html#methods-approaches",
+    "href": "research.html#methods-approaches",
+    "title": "Research",
+    "section": "Methods & approaches",
+    "text": "Methods & approaches\n\nBioinformatics \nExpertise in analyzing genomics, transcriptomics, proteomics, and epigenetics data. We leverage cutting-edge tools and algorithms to decode the intricate mechanisms of life.\nData Analysis and Statistics \nProficient in designing and executing robust data analysis pipelines, ensuring accurate interpretation of complex datasets across various scientific disciplines.\nOxford Nanopore Sequencing Data \nAdvanced skills in analyzing Oxford Nanopore sequencing data, from quality control to genome assembly and variant calling, providing comprehensive insights into genetic landscapes.\nBone Biomaterials \nSkilled in the synthesis and characterization of bone biomaterials, with a focus on their physicochemical properties and biological interactions to advance regenerative medicine.\nMachine Learning \nApplication of machine learning techniques to predict outcomes, classify datasets, and uncover patterns in biological and material science data, pushing the boundaries of innovation.\n\nThis broad expertise enables me to approach challenges comprehensively, leading to meaningful discoveries and innovative solutions."
   },
   {
     "objectID": "research.html#un-sustainable-development-goals",
     "href": "research.html#un-sustainable-development-goals",
     "title": "Research",
-    "section": "",
-    "text": "(a) Good Health and Well-Being\n\n\n\n\n\n\n\n\n\n\n\n(b) Quality Education\n\n\n\n\n\n\n\n\n\n\n\n(c) Industry, Innovation and Infrastructue\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\nMy research contributes to Sustainable Development Goal 3 by advancing data-driven approaches in health and biomedical sciences. Through the integration of bioinformatics, transcriptomics, epigenetics, and biomaterials research, my work supports the development and evaluation of regenerative strategies, particularly in bone tissue engineering. By focusing on in vitro models and predictive computational pipelines, I aim to improve the understanding of cell–material interactions and to generate robust biomarkers that can ultimately support safer, more effective, and more sustainable healthcare solutions.\n\n\n\nAligned with Sustainable Development Goal 4, I am actively engaged in promoting quality education through scientific training, capacity building, and open educational resources. I develop and deliver workshops, short courses, and teaching materials focused on bioinformatics, data science, and reproducible research practices. By emphasizing computational literacy and critical data analysis, my work supports the formation of highly qualified students and researchers, contributing to inclusive and lifelong learning in science and technology.\n\n\n\nMy work directly supports Sustainable Development Goal 9 by contributing to scientific innovation and digital research infrastructure. I develop scalable computational workflows, machine learning–based analytical strategies, and interoperable data resources that integrate physical, chemical, and biological datasets. These efforts strengthen research infrastructure and foster innovation at the interface of biology, materials science, and data science, enabling more efficient knowledge generation and supporting the translation of scientific advances into technological and industrial applications."
+    "section": "UN Sustainable Development Goals",
+    "text": "UN Sustainable Development Goals\n\n\n\n\n\n\n\n\n\n\n\n(a) Good Health and Well-Being\n\n\n\n\n\n\n\n\n\n\n\n(b) Quality Education\n\n\n\n\n\n\n\n\n\n\n\n(c) Industry, Innovation and Infrastructue\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\nSDG 3 – Good Health and Well-Being\nMy research contributes to Sustainable Development Goal 3 by advancing data-driven approaches in health and biomedical sciences. Through the integration of bioinformatics, transcriptomics, epigenetics, and biomaterials research, my work supports the development and evaluation of regenerative strategies, particularly in bone tissue engineering. By focusing on in vitro models and predictive computational pipelines, I aim to improve the understanding of cell–material interactions and to generate robust biomarkers that can ultimately support safer, more effective, and more sustainable healthcare solutions.\n\n\nSDG 4 – Quality Education\nAligned with Sustainable Development Goal 4, I am actively engaged in promoting quality education through scientific training, capacity building, and open educational resources. I develop and deliver workshops, short courses, and teaching materials focused on bioinformatics, data science, and reproducible research practices. By emphasizing computational literacy and critical data analysis, my work supports the formation of highly qualified students and researchers, contributing to inclusive and lifelong learning in science and technology.\n\n\nSDG 9 – Industry, Innovation and Infrastructure\nMy work directly supports Sustainable Development Goal 9 by contributing to scientific innovation and digital research infrastructure. I develop scalable computational workflows, machine learning–based analytical strategies, and interoperable data resources that integrate physical, chemical, and biological datasets. These efforts strengthen research infrastructure and foster innovation at the interface of biology, materials science, and data science, enabling more efficient knowledge generation and supporting the translation of scientific advances into technological and industrial applications."
   },
   {
     "objectID": "pubs.html",
@@ -35,53 +49,81 @@
     "text": "Software\n\ntidyspec [R package]\nOsteoCLUST [App]\npreviewDeconv [App]"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Marcel Ferreira, is a Medical Physics graduate with a Master’s and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the Molecular Genetics and Bioinformatics Laboratory (GemBio), led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the Laboratory of Bioassays and Cell Dynamics (LaBIO), directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology."
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "About",
+    "section": "",
+    "text": "Marcel Ferreira, is a Medical Physics graduate with a Master’s and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the Molecular Genetics and Bioinformatics Laboratory (GemBio), led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the Laboratory of Bioassays and Cell Dynamics (LaBIO), directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology."
+  },
+  {
+    "objectID": "about.html#get-in-contact",
+    "href": "about.html#get-in-contact",
+    "title": "About",
+    "section": "Get in contact",
+    "text": "Get in contact\nExperimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681\n marcel.ferreira@unesp.br\n ferreiramr_phd\n marceelrf\n marceelrf\n Scholar"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Marcel Ferreira",
     "section": "",
-    "text": "Our laboratory is dedicated to innovation and excellence in biotechnology and bioinformatics, exploring the frontiers of science to address pressing research challenges.\nMarcel Ferreira, is a Medical Physics graduate with a Master’s and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the Molecular Genetics and Bioinformatics Laboratory (GemBio), led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the Laboratory of Bioassays and Cell Dynamics (LaBIO), directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology.\nOur laboratory integrates diverse expertise to pursue impactful discoveries. We invite you to explore our work, learn about our ongoing projects, and collaborate with us to advance the boundaries of science."
+    "text": "I am a researcher working in bioinformatics and data analysis, focusing on the development and application of computational methods to answer biological and biomedical questions. My interests include omics data analysis, scientific reproducibility, and the development of research tools."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Marcel Ferreira",
     "section": "",
-    "text": "Our laboratory is dedicated to innovation and excellence in biotechnology and bioinformatics, exploring the frontiers of science to address pressing research challenges.\nMarcel Ferreira, is a Medical Physics graduate with a Master’s and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the Molecular Genetics and Bioinformatics Laboratory (GemBio), led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the Laboratory of Bioassays and Cell Dynamics (LaBIO), directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology.\nOur laboratory integrates diverse expertise to pursue impactful discoveries. We invite you to explore our work, learn about our ongoing projects, and collaborate with us to advance the boundaries of science."
+    "text": "I am a researcher working in bioinformatics and data analysis, focusing on the development and application of computational methods to answer biological and biomedical questions. My interests include omics data analysis, scientific reproducibility, and the development of research tools."
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
+    "objectID": "index.html#research",
+    "href": "index.html#research",
     "title": "Marcel Ferreira",
-    "section": "Research interests",
-    "text": "Research interests\n\nHuman identification via DNA;\nAlternative methods to the use of animals;\nBone tissue biology;\nBiomaterials;\nTissue regeneration;\nOpen science;"
+    "section": "Research",
+    "text": "Research\nI primarily work with quantitative and computational approaches applied to biology, integrating experimental data with statistical methods. See my research interests."
   },
   {
-    "objectID": "index.html#expertises",
-    "href": "index.html#expertises",
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
     "title": "Marcel Ferreira",
-    "section": "Expertises",
-    "text": "Expertises\nAt the Marcel Ferreira Laboratory, we excel in integrating diverse scientific approaches to address complex biological questions. Our specializations include:\n\nBioinformatics \nExpertise in analyzing genomics, transcriptomics, proteomics, and epigenetics data. We leverage cutting-edge tools and algorithms to decode the intricate mechanisms of life.\nData Analysis and Statistics \nProficient in designing and executing robust data analysis pipelines, ensuring accurate interpretation of complex datasets across various scientific disciplines.\nOxford Nanopore Sequencing Data \nAdvanced skills in analyzing Oxford Nanopore sequencing data, from quality control to genome assembly and variant calling, providing comprehensive insights into genetic landscapes.\nBone Biomaterials \nSkilled in the synthesis and characterization of bone biomaterials, with a focus on their physicochemical properties and biological interactions to advance regenerative medicine.\nMachine Learning \nApplication of machine learning techniques to predict outcomes, classify datasets, and uncover patterns in biological and material science data, pushing the boundaries of innovation.\n\nOur multidisciplinary expertise allows us to approach challenges holistically, fostering impactful discoveries and innovative solutions."
+    "section": "Projects",
+    "text": "Projects\nI have participated in and led projects involving biological data analysis, the development of analytical pipelines, and the integration of multi-omic data. Explore selected and ongoing projects.\n\nPublications & Software Contributions\nMy work includes peer-reviewed scientific articles as well as methodological and computational contributions incorporated into research packages and analytical workflows. View publications and software contributions."
+  },
+  {
+    "objectID": "index.html#teaching-training",
+    "href": "index.html#teaching-training",
+    "title": "Marcel Ferreira",
+    "section": "Teaching & Training",
+    "text": "Teaching & Training\nI am involved in teaching and training activities, including workshops, short courses, and educational materials focused on bioinformatics and data science. See teaching and outreach activities."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Marcel Ferreira",
     "section": "Contact",
-    "text": "Contact\nExperimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681\n marcel.ferreira@unesp.br\n ferreiramr_phd\n marceelrf"
+    "text": "Contact\nExperimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681\n marcel.ferreira@unesp.br\n ferreiramr_phd\n marceelrf\n marceelrf"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Experimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681\n marcel.ferreira@unesp.br\n ferreiramr_phd\n marceelrf\n Scholar"
+    "text": "Bone tissue provides mechanical support and protection, regenerating itself in minor injuries but requiring biomaterials in critical injuries. Osseointegration depends on the surface of these materials. This project proposes a machine learning pipeline that integrates physicochemical data from five biomaterials with transcriptomes from cells cultured on them, including cytotoxicity, proliferation, and cell adhesion, as well as public fracture data (single-cell RNAseq and spatial transcriptomics). The goal is to identify molecular bases of cell adhesion and develop predictive models to evaluate and optimize osseointegration in biomaterials.\n\n\n\nForensic genetics uses SNPs in genes such as OCA2 and HERC2 to predict characteristics such as skin, eye, and hair color. However, there are gaps in knowledge regarding complete haplotypes, linkage disequilibrium in different populations, and the role of epigenetic methylation in these traits. With Oxford Nanopore technology, it is possible to analyze long reads and DNA modifications, overcoming the limitations of traditional methods. This project aims to characterize the haplotype and epigenetic architecture of the OCA2-HERC2 region in samples from 1000 Genomes, integrating variants, haplotypes, LD, and methylation, generating a catalog with forensic and population applications.\n\n\n\nDNA technologies have been used in forensics since the 1980s, with PCR-based STR genotyping as the standard. Oxford Nanopore has brought advances such as real-time and long-read sequencing. Phenotyping and forensic epigenetics are emerging as promising areas for predicting physical characteristics and obtaining additional clues. This study aims to implement whole genome sequencing with Nanopore and bioinformatic analyses to identify variants, haplotypes, ancestry, and phenotypic characteristics, following strict protocols for DNA collection, extraction, and analysis."
   },
   {
-    "objectID": "about.html#get-in-contact",
-    "href": "about.html#get-in-contact",
-    "title": "About",
+    "objectID": "projects.html#ongoing-projects",
+    "href": "projects.html#ongoing-projects",
+    "title": "Projects",
     "section": "",
-    "text": "Experimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681\n marcel.ferreira@unesp.br\n ferreiramr_phd\n marceelrf\n Scholar"
+    "text": "Bone tissue provides mechanical support and protection, regenerating itself in minor injuries but requiring biomaterials in critical injuries. Osseointegration depends on the surface of these materials. This project proposes a machine learning pipeline that integrates physicochemical data from five biomaterials with transcriptomes from cells cultured on them, including cytotoxicity, proliferation, and cell adhesion, as well as public fracture data (single-cell RNAseq and spatial transcriptomics). The goal is to identify molecular bases of cell adhesion and develop predictive models to evaluate and optimize osseointegration in biomaterials.\n\n\n\nForensic genetics uses SNPs in genes such as OCA2 and HERC2 to predict characteristics such as skin, eye, and hair color. However, there are gaps in knowledge regarding complete haplotypes, linkage disequilibrium in different populations, and the role of epigenetic methylation in these traits. With Oxford Nanopore technology, it is possible to analyze long reads and DNA modifications, overcoming the limitations of traditional methods. This project aims to characterize the haplotype and epigenetic architecture of the OCA2-HERC2 region in samples from 1000 Genomes, integrating variants, haplotypes, LD, and methylation, generating a catalog with forensic and population applications.\n\n\n\nDNA technologies have been used in forensics since the 1980s, with PCR-based STR genotyping as the standard. Oxford Nanopore has brought advances such as real-time and long-read sequencing. Phenotyping and forensic epigenetics are emerging as promising areas for predicting physical characteristics and obtaining additional clues. This study aims to implement whole genome sequencing with Nanopore and bioinformatic analyses to identify variants, haplotypes, ancestry, and phenotypic characteristics, following strict protocols for DNA collection, extraction, and analysis."
   },
   {
     "objectID": "services.html",

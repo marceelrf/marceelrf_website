@@ -2,6 +2,10 @@
 title: "About"
 ---
 
+## Bio
+
+Marcel Ferreira, is a Medical Physics graduate with a Master's and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the **Molecular Genetics and Bioinformatics Laboratory (GemBio)**, led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the **Laboratory of Bioassays and Cell Dynamics (LaBIO)**, directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology.
+
 ## Get in contact
 
 Experimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São Paulo, Brazil, Zip code: 18618-681
@@ -9,6 +13,8 @@ Experimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São 
 {{< fa envelope >}} [marcel.ferreira\@unesp.br](mailto:marcel.ferreira@unesp.br)
 
 {{< fa brands instagram >}} ferreiramr_phd
+
+{{< fa brands github >}} [marceelrf](https://github.com/marceelrf)
 
 {{< fa brands linkedin >}} [marceelrf](https://www.linkedin.com/in/marceelrf/)
 

@@ -4,46 +4,23 @@ title: "Marcel Ferreira"
 
 ## Welcome
 
-Our laboratory is dedicated to innovation and excellence in biotechnology and bioinformatics, exploring the frontiers of science to address pressing research challenges.
+I am a researcher working in bioinformatics and data analysis, focusing on the development and application of computational methods to answer biological and biomedical questions. My interests include omics data analysis, scientific reproducibility, and the development of research tools.
 
-Marcel Ferreira, is a Medical Physics graduate with a Master's and Ph.D. in Biotechnology from the Institute of Biosciences of Botucatu (IBB) at São Paulo State University (UNESP). He is a postdoctoral researcher in the **Molecular Genetics and Bioinformatics Laboratory (GemBio)**, led by Prof. Dr. Erick da Cruz Castelli, where he develops methodologies for whole-genome sequencing using Oxford Nanopore technology and advanced bioinformatics strategies for data analysis. Marcel also collaborates closely with the **Laboratory of Bioassays and Cell Dynamics (LaBIO)**, directed by Prof. Dr. Willian Fernando Zambuzzi, contributing to research in tissue mineralization biology, biomaterials, and biotechnology.
+## Research
 
-Our laboratory integrates diverse expertise to pursue impactful discoveries. We invite you to explore our work, learn about our ongoing projects, and collaborate with us to advance the boundaries of science.
+I primarily work with quantitative and computational approaches applied to biology, integrating experimental data with statistical methods. [See my research interests](research.qmd##sec-research-interests).
 
-## Research interests
+## Projects
 
--   Human identification via DNA;
+I have participated in and led projects involving biological data analysis, the development of analytical pipelines, and the integration of multi-omic data. [Explore selected and ongoing projects](projects.qmd).
 
--   Alternative methods to the use of animals;
+### Publications & Software Contributions
 
--   Bone tissue biology;
+My work includes peer-reviewed scientific articles as well as methodological and computational contributions incorporated into research packages and analytical workflows. [View publications and software contributions](pubs.qmd).
 
--   Biomaterials;
+## Teaching & Training
 
--   Tissue regeneration;
-
--   Open science;
-
-## Expertises
-
-At the Marcel Ferreira Laboratory, we excel in integrating diverse scientific approaches to address complex biological questions. Our specializations include:
-
--   **Bioinformatics** {{< fa computer >}}\
-    Expertise in analyzing genomics, transcriptomics, proteomics, and epigenetics data. We leverage cutting-edge tools and algorithms to decode the intricate mechanisms of life.
-
--   **Data Analysis and Statistics** {{< fa chart-simple >}}\
-    Proficient in designing and executing robust data analysis pipelines, ensuring accurate interpretation of complex datasets across various scientific disciplines.
-
--   **Oxford Nanopore Sequencing Data** {{< fa dna >}}\
-    Advanced skills in analyzing Oxford Nanopore sequencing data, from quality control to genome assembly and variant calling, providing comprehensive insights into genetic landscapes.
-
--   **Bone Biomaterials** {{< fa bone >}}\
-    Skilled in the synthesis and characterization of bone biomaterials, with a focus on their physicochemical properties and biological interactions to advance regenerative medicine.
-
--   **Machine Learning** {{< fa robot >}}\
-    Application of machine learning techniques to predict outcomes, classify datasets, and uncover patterns in biological and material science data, pushing the boundaries of innovation.
-
-Our multidisciplinary expertise allows us to approach challenges holistically, fostering impactful discoveries and innovative solutions.
+I am involved in teaching and training activities, including workshops, short courses, and educational materials focused on bioinformatics and data science. [See teaching and outreach activities](training.qmd).
 
 ## Contact
 
@@ -52,5 +29,7 @@ Experimental Research Unit, Block 5, Faculty of Medicine, Unesp, Botucatu, São 
 {{< fa envelope >}} [marcel.ferreira\@unesp.br](mailto:marcel.ferreira@unesp.br)
 
 {{< fa brands instagram >}} ferreiramr_phd
+
+{{< fa brands github >}} [marceelrf](https://github.com/marceelrf)
 
 {{< fa brands linkedin >}} [marceelrf](https://www.linkedin.com/in/marceelrf/)

@@ -15,3 +15,17 @@ title: "Teaching & Training"
 <!-- <br> -->
 
 <!-- -   "***Hands on bioinformatics***"; -->
+
+## Presentations
+
+-   "*Desvendando os Segredos dos Dados Biológicos: O Poder da Bioinformática*" 2024-09-11\[🇧🇷\] \[[Slides](https://marceelrf.quarto.pub/biometria/#/title-slide)\]
+
+-   "*Bioinformática: Perspectivas para Físicos Médicos*" 2024-09-26 \[🇧🇷\] \[[Slides](https://marceelrf.quarto.pub/confiam2024/)\]
+
+## Class
+
+-   "*Sequenciamento de Terceira Geração com Oxford Nanopore: Princípios e Aplicações em Bioinformática*" 2025-09-04 \[🇧🇷\] \[[Slides](https://marceelrf.quarto.pub/nanopore_genetica/)\]
+
+## Courses
+
+-   "*Workshop de Bioinformática Aplicada à Genética Forense: Análise de Dados de Sequenciamento de Segunda e Terceira Geração*" 2024-10-16 \[🇧🇷\] \[[Slides](https://workshopbioinfoforense.netlify.app/)\]

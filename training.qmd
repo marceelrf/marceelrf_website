@@ -29,9 +29,5 @@ title: "Teaching & Training"
 ## Courses
 
 -   "*Acelerando sua análise de dados com `tidyverse`*" 2024-04-27 \[🇧🇷\] \[[Slides](https://marceelrf.quarto.pub/acelerando-sua-analise-de-dados-com-tidyverse/#/title-slide)\]
-
--   "*Desvendando os Segredos da Visualização de dados.*
-
-    *`ggplot2` para Iniciantes*" 2024-08-20 \[🇧🇷\] \[[Slides](https://marceelrf.quarto.pub/desvendando-os-segredos-da-visualizacao-de-dados/)\]
-
+-   "*Desvendando os Segredos da Visualização de dados. `ggplot2` para Iniciantes*" 2024-08-20 \[🇧🇷\] \[[Slides](https://marceelrf.quarto.pub/desvendando-os-segredos-da-visualizacao-de-dados/)\]
 -   "*Workshop de Bioinformática Aplicada à Genética Forense: Análise de Dados de Sequenciamento de Segunda e Terceira Geração*" 2024-10-16 \[🇧🇷\] \[[Slides](https://workshopbioinfoforense.netlify.app/)\]

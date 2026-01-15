@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Marcel Ferreira"
+  favicon: "favicon.png"
   navbar:
     left:
       - href: index.qmd

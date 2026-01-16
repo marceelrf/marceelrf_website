@@ -1,1 +1,31 @@
 /* css styles */
+main p {
+  text-align: justify;
+}
+
+.etiqueta {
+  display: inline-flex;
+  align-items: center;
+  background: linear-gradient(135deg, #ec6864, #ffc371);
+  color: white;
+  padding: 2px 6px;            /* menos altura, largura controlada */
+  border-radius: 3px 3px 8px 2px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 11px;
+  line-height: 1;              /* remove espaço extra vertical do texto */
+  position: relative;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  cursor: default;
+}
+
+/* O buraquinho da etiqueta */
+.furo {
+  width: 4px;
+  height: 4px;
+  background-color: white; /* Cor do fundo do site */
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+  box-shadow: inset 1px 1px 2px rgba(0,0,0,0.3);
+}

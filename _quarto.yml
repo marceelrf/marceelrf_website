@@ -1,7 +1,9 @@
 project:
   type: website
   output-dir: docs
-
+  render: 
+    - "*.qmd"
+    -  "!pubs_full_list.qmd"
 website:
   title: "Marcel Ferreira"
   favicon: "favicon.png"

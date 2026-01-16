@@ -8,10 +8,66 @@ title: "Projects"
 
 Bone tissue provides mechanical support and protection, regenerating itself in minor injuries but requiring biomaterials in critical injuries. Osseointegration depends on the surface of these materials. This project proposes a machine learning pipeline that integrates physicochemical data from five biomaterials with transcriptomes from cells cultured on them, including cytotoxicity, proliferation, and cell adhesion, as well as public fracture data (single-cell RNAseq and spatial transcriptomics). The goal is to identify molecular bases of cell adhesion and develop predictive models to evaluate and optimize osseointegration in biomaterials.
 
+::: etiqueta
+Bone
+:::
+
+::: etiqueta
+Biomaterials
+:::
+
+::: etiqueta
+*in vitro*
+:::
+
+::: etiqueta
+RNA-seq
+:::
+
+::: etiqueta
+Machine learning
+:::
+
 ### ***Haplotype and epigenomic characterization of the OCA2-HERC2 region***
 
 Forensic genetics uses SNPs in genes such as OCA2 and HERC2 to predict characteristics such as skin, eye, and hair color. However, there are gaps in knowledge regarding complete haplotypes, linkage disequilibrium in different populations, and the role of epigenetic methylation in these traits. With Oxford Nanopore technology, it is possible to analyze long reads and DNA modifications, overcoming the limitations of traditional methods. This project aims to characterize the haplotype and epigenetic architecture of the OCA2-HERC2 region in samples from 1000 Genomes, integrating variants, haplotypes, LD, and methylation, generating a catalog with forensic and population applications.
 
+::: etiqueta
+Forensic genetics
+:::
+
+::: etiqueta
+Phenotyping
+:::
+
+::: etiqueta
+Methylation
+:::
+
+::: etiqueta
+Nanopore
+:::
+
 ### ***Epigenetics and forensic phenotyping: methylation profile, age, and skin pigmentation***
 
 DNA technologies have been used in forensics since the 1980s, with PCR-based STR genotyping as the standard. Oxford Nanopore has brought advances such as real-time and long-read sequencing. Phenotyping and forensic epigenetics are emerging as promising areas for predicting physical characteristics and obtaining additional clues. This study aims to implement whole genome sequencing with Nanopore and bioinformatic analyses to identify variants, haplotypes, ancestry, and phenotypic characteristics, following strict protocols for DNA collection, extraction, and analysis.
+
+::: etiqueta
+Forensic genetics
+:::
+
+::: etiqueta
+Phenotyping
+:::
+
+::: etiqueta
+Methylation
+:::
+
+::: etiqueta
+Age prediction
+:::
+
+::: etiqueta
+Nanopore
+:::

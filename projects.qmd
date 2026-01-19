@@ -28,6 +28,30 @@ RNA-seq
 Machine learning
 :::
 
+### ***Development of Advanced Biomimetic Units for Bone Regeneration: Integration of Hydrogels Additivated with Calcium Phosphate and PRP via Bio-Chaotic Processing***
+
+The increasing demand for effective treatments for bone injuries has motivated tissue engineering to develop scaffolds that replicate the natural microenvironment. This project creates three-dimensional biomimetic units using hybrid sodium alginate and gelatin (either natural or methacrylated) hydrogels, known for their biocompatibility and resemblance to the extracellular matrix. To enhance their biological properties, the matrix incorporates tricalcium phosphate (betaTCP), which provides osteoconductivity, and lyophilized platelet-rich plasma (PRP), a source of autologous growth factors. Biofabrication employs Kenics static mixers with chaotic flow to ensure homogenization and control of the microstructure. Cell mimicry is improved with pre-osteoblast spheroids (MC3T3), promoting cell adhesion and responses similar to the in vivo environment. The material will undergo characterization through FTIR, ICP, swelling tests, and SEM, and its biological efficacy will be assessed via cytotoxicity and gene expression analysis (RT-qPCR), establishing a new process for functional bioinks in bone regeneration.
+
+::: etiqueta
+Bone
+:::
+
+::: etiqueta
+Biomaterials
+:::
+
+::: etiqueta
+Platelet-rich plasma
+:::
+
+::: etiqueta
+Bioink
+:::
+
+::: etiqueta
+3D printing
+:::
+
 ### ***Haplotype and epigenomic characterization of the OCA2-HERC2 region***
 
 Forensic genetics uses SNPs in genes such as OCA2 and HERC2 to predict characteristics such as skin, eye, and hair color. However, there are gaps in knowledge regarding complete haplotypes, linkage disequilibrium in different populations, and the role of epigenetic methylation in these traits. With Oxford Nanopore technology, it is possible to analyze long reads and DNA modifications, overcoming the limitations of traditional methods. This project aims to characterize the haplotype and epigenetic architecture of the OCA2-HERC2 region in samples from 1000 Genomes, integrating variants, haplotypes, LD, and methylation, generating a catalog with forensic and population applications.

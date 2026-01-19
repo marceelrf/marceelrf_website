@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-## Research interests  {#sec-research-interests}
+## Research interests {#sec-research-interests}
 
 -   Alternative methods to the use of animals;
 

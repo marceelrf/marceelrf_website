@@ -16,7 +16,7 @@ title: "Publications and Sofware"
 
 Download the publication's full list:
 
-{{< downloadthis docs/pubs_full_list.pdf >}}
+{{< downloadthis pubs_full_list.pdf >}}
 
 ## Software
 

@@ -1,6 +1,6 @@
 ---
 title: "Complete list of publications"
-format: pdf
+format: typst
 ---
 
 1.  Alvarez TM, Liberato MV, Cairo JP, Paixão DA, Campos BM, [**Ferreira MR**]{.underline}, Almeida RF, Pereira IO, Bernardes A, Ematsu GC, Chinaglia M, Polikarpov I, de Oliveira Neto M, Squina FM. *A Novel Member of GH16 Family Derived from Sugarcane Soil Metagenome*. Appl Biochem Biotechnol. 2015 Sep;177(2):304-17. doi: [10.1007/s12010-015-1743-7](https://www.doi.org/10.1007/s12010-015-1743-7). Epub 2015 Aug 5. PMID: 26242386.
@@ -74,5 +74,8 @@ format: pdf
 35. Zambuzzi WF, [**Ferreira MR**]{.underline}, Wang Z, Peppelenbosch MP. *A Biochemical View on Intermittent Fasting's Effects on Human Physiology-Not Always a Beneficial Strategy*. Biology (Basel). 2025 Jun 9;14(6):669. doi: [10.3390/biology14060669](https://www.doi.org/10.3390/biology14060669). PMID: 40563920; PMCID: PMC12190167.
 
 36. [**Ferreira MR**]{.underline}, Feltran GDS, Gomes AM, Vieira JCS, Santana GG, Silva MA, Santos EAAD, Zambuzzi WF. *Mesenchymal Stem Cell Differentiation Induced by Lyophilized PRP During Early Osteogenesis*. Cell Biol Int. 2026 Jan;50(1):e70101. doi: [10.1002/cbin.70101](https://www.doi.org/10.1002/cbin.70101). Epub 2025 Nov 13. PMID: 41230788.
+
+37. Fernandes CJC, Foganholi da Silva RA, [**Ferreira MR**]{.underline}, Zambuzzi WF. *Venous Endothelial Cells Promote Osteoblast Differentiation More Effectively Than Arterial Cells via TGF-β/BMP9 and Notch Pathway-Related Gene Expression*. Cell Biochemistry and Function. 2026;44:1--14. doi:[10.1002/cbf.70160](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/cbf.70160).
+    \
 
 [^1]: There was an error in the submission, resulting in the reversal of the surnames. Therefore, the correct name is Marcel Rodrigues Ferreira. If you wish to confirm the accuracy of this article, please consult Professor Dr. Willian Zambuzzi ([w.zambuzzi\@unesp.br](mailto:w.zambuzzi@unesp.br)).
